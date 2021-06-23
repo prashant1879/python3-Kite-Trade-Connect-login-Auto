@@ -3,7 +3,7 @@ python3 script for Kite Trade Connect login Auto which is required for everyday 
 
 #I working with Linux Ubuntu 18.04 and here is installation step.
 
-Move to installation directory ( I am tried at /var/www/html/kite )
+#Move to installation directory ( I am tried at /var/www/html/kite )
 
 cd /var/www/html/kite
 
@@ -30,7 +30,7 @@ firefox --version
 python3 kite.py
 
 #you can see the capture of redirect page of kite trade. in capture.png
-
+##############################
 API_KEY = Which is provided by Kite.
 USERiD = Which is provided by Kite.
 PASSwORD = Which is set by account admin.
