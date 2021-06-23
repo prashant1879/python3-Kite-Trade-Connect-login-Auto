@@ -24,3 +24,8 @@ firefox --version
 python3 kite.py
 
 #you can see the capture of redirect page of kite trade. in capture.png
+
+API_KEY = Which is provided by Kite.
+USERiD = Which is provided by Kite.
+PASSwORD = Which is set by account admin.
+PiN = Which is set by account admin.
